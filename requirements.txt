@@ -1,0 +1,5 @@
+pyotp
+colorama
+pyperclip
+qrcode
+cryptography

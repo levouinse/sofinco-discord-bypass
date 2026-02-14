@@ -1,0 +1,5 @@
+replace this with your discord 2fa key manually as shown in readme file. (make sure there are no spaces)
+
+# For multiple accounts, use this format:
+# main: YOUR_KEY_HERE
+# alt: YOUR_KEY_HERE
